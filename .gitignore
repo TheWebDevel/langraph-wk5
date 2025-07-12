@@ -1,0 +1,11 @@
+# Ignore temporary graph files
+temp_graph.html
+
+# Python cache and environment files
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# Vector database (auto-generated)
+vector_db/

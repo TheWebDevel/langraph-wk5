@@ -1,0 +1,121 @@
+IT DEPARTMENT FAQ
+=================
+
+VPN SETUP & NETWORK
+-------------------
+Q: How do I set up VPN?
+A: Download the VPN client from the company portal. Use your employee credentials to connect. Contact IT if you need installation assistance.
+
+Q: What are the VPN connection settings?
+A: Server: vpn.company.com, Protocol: OpenVPN, Port: 1194. Use your company email and password for authentication.
+
+Q: Why can't I connect to the VPN?
+A: Check your internet connection, verify credentials, and ensure the VPN client is up to date. Contact IT if issues persist.
+
+Q: How do I reset my VPN password?
+A: Use the password reset portal or contact IT support. You'll need to provide employee ID and answer security questions.
+
+SOFTWARE & APPLICATIONS
+-----------------------
+Q: What software is approved for use?
+A: Approved software list is available in the company portal under "IT" > "Software Catalog". All software must be approved before installation.
+
+Q: How do I request new software installation?
+A: Submit a software request form through the IT portal with business justification and manager approval.
+
+Q: Can I install software on my work computer?
+A: Only approved software can be installed. Personal software is not allowed on company devices.
+
+Q: How do I update my software?
+A: Software updates are pushed automatically. You can also check for updates through the company portal.
+
+Q: What is the policy on cloud storage?
+A: Use only approved cloud storage solutions (OneDrive, SharePoint). Personal cloud storage is not allowed for company data.
+
+HARDWARE & DEVICES
+------------------
+Q: How do I request a new laptop?
+A: Submit a hardware request form through the IT portal. Include business justification and manager approval.
+
+Q: What laptop models are available?
+A: Standard models: Dell Latitude 5520, MacBook Pro 14". Contact IT for current inventory and specifications.
+
+Q: How do I get a replacement device?
+A: Contact IT support with your device issue. Loaner devices are available for urgent needs.
+
+Q: What is the device replacement policy?
+A: Devices are replaced every 3-4 years or when they become unusable. Damaged devices may require manager approval for replacement.
+
+Q: How do I connect my phone to company email?
+A: Use the approved email app (Outlook) and follow the setup instructions in the employee portal.
+
+SECURITY & ACCESS
+-----------------
+Q: How do I reset my password?
+A: Use the password reset portal or contact IT support. You'll need to provide employee ID and answer security questions.
+
+Q: What is the password policy?
+A: Passwords must be 12+ characters with uppercase, lowercase, numbers, and special characters. Change every 90 days.
+
+Q: How do I enable two-factor authentication?
+A: Set up 2FA through the security settings in the employee portal. Use the Microsoft Authenticator app.
+
+Q: What should I do if I suspect a security breach?
+A: Immediately contact IT security at security@company.com and do not access any systems until cleared.
+
+Q: How do I report suspicious emails?
+A: Forward suspicious emails to phishing@company.com. Do not click links or download attachments.
+
+TROUBLESHOOTING
+---------------
+Q: My computer is running slowly, what should I do?
+A: Restart your computer, close unnecessary applications, and check available disk space. Contact IT if issues persist.
+
+Q: I can't access the company network, what's wrong?
+A: Check your internet connection, VPN status, and network cable. Contact IT if you're still unable to connect.
+
+Q: My printer isn't working, how do I fix it?
+A: Check printer power, paper, and network connection. Restart the printer and try again. Contact IT if issues persist.
+
+Q: How do I connect to the office printer?
+A: Add the printer through Windows settings using the network path provided by IT. Contact IT for setup assistance.
+
+Q: My email isn't working, what should I do?
+A: Check your internet connection and try restarting Outlook. Clear cache if needed. Contact IT if issues persist.
+
+BACKUP & DATA
+--------------
+Q: How do I backup my work files?
+A: Save all work files to OneDrive or SharePoint. Local files are not automatically backed up.
+
+Q: How do I recover deleted files?
+A: Check the Recycle Bin first. For OneDrive/SharePoint files, check the version history. Contact IT for assistance.
+
+Q: What is the data retention policy?
+A: Company data is retained according to legal requirements. Personal files should not be stored on company systems.
+
+Q: How do I transfer files to a new computer?
+A: IT will help transfer files during computer setup. Ensure all files are saved to OneDrive/SharePoint before transfer.
+
+REMOTE WORK
+-----------
+Q: What equipment do I need for remote work?
+A: Laptop, stable internet connection, and VPN access. Contact IT for additional equipment needs.
+
+Q: How do I access company resources from home?
+A: Connect to VPN and access resources through the company portal. All standard applications are available remotely.
+
+Q: What is the policy on personal devices for work?
+A: Use only company-issued devices for work. Personal devices are not allowed for company data or applications.
+
+Q: How do I get IT support when working remotely?
+A: Contact IT through the support portal, email, or phone. Remote assistance tools are available for troubleshooting.
+
+CONTACT INFORMATION
+-------------------
+IT Support: it@company.com
+IT Security: security@company.com
+Hardware Requests: hardware@company.com
+Software Requests: software@company.com
+General IT: (555) 987-6543
+Emergency IT: (555) 987-6544

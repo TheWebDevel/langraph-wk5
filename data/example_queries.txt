@@ -1,0 +1,118 @@
+EXAMPLE QUERIES FOR MULTI-AGENT SUPPORT SYSTEM
+==============================================
+
+IT-RELATED QUERIES (Should route to IT Agent)
+---------------------------------------------
+
+QUERIES WITH DIRECT FAQ RESPONSES:
+1. "How do I set up VPN on my laptop?"
+2. "What software is approved for installation on company computers?"
+3. "I need to request a new laptop, what's the process?"
+4. "My computer is running very slowly, what should I do?"
+5. "How do I reset my password for the company network?"
+6. "Can I install personal software on my work computer?"
+7. "What's the policy on using personal devices for work?"
+8. "How do I connect to the office printer from my desk?"
+9. "My email isn't working, how do I fix it?"
+10. "What equipment do I need for remote work?"
+11. "How do I enable two-factor authentication?"
+12. "I can't access the company network, what's wrong?"
+13. "How do I backup my work files?"
+14. "What should I do if I receive a suspicious email?"
+15. "How do I get IT support when working from home?"
+
+QUERIES REQUIRING WEB SEARCH:
+16. "What are the latest cybersecurity threats I should be aware of?"
+17. "How do I protect against ransomware attacks?"
+18. "What's the best antivirus software for business use in 2024?"
+19. "How do I set up a secure home network for remote work?"
+20. "What are the current trends in enterprise software management?"
+21. "How do I troubleshoot Windows 11 network connectivity issues?"
+22. "What are the best practices for data backup in 2024?"
+23. "How do I configure firewall settings for business security?"
+24. "What's the latest information on Microsoft Office 365 security?"
+25. "How do I implement zero-trust security architecture?"
+
+FINANCE-RELATED QUERIES (Should route to Finance Agent)
+-------------------------------------------------------
+
+QUERIES WITH DIRECT FAQ RESPONSES:
+1. "How do I file a reimbursement request?"
+2. "Where can I find last month's budget report?"
+3. "When is payroll processed each month?"
+4. "What expenses are eligible for reimbursement?"
+5. "How long does reimbursement processing take?"
+6. "How do I submit a purchase request for new equipment?"
+7. "What's the approval process for purchases over $1000?"
+8. "How do I update my direct deposit information?"
+9. "When will I receive my W-2 form?"
+10. "How do I request a pay stub?"
+11. "What's the company's travel policy for business trips?"
+12. "How do I submit an invoice for payment?"
+13. "What's the policy on business meals and expenses?"
+14. "How do I request budget approval for a new project?"
+15. "What documentation is required for purchase requests?"
+
+QUERIES REQUIRING WEB SEARCH:
+16. "What are the current tax deduction limits for business expenses in 2024?"
+17. "How do I calculate depreciation for business equipment?"
+18. "What are the latest IRS guidelines for employee reimbursements?"
+19. "How do I implement expense management software for small businesses?"
+20. "What are the current trends in corporate financial reporting?"
+21. "How do I create a budget forecast for the next fiscal year?"
+22. "What are the best practices for vendor payment processing?"
+23. "How do I analyze financial ratios for business health?"
+24. "What are the current regulations for corporate credit card usage?"
+25. "How do I implement automated invoice processing systems?"
+
+EDGE CASES & AMBIGUOUS QUERIES (May need clarification)
+-------------------------------------------------------
+1. "I need help with my computer and expenses" (Both IT and Finance)
+2. "How do I get a new laptop and pay for it?" (Both IT and Finance)
+3. "What's the policy on software purchases?" (Could be either)
+4. "How do I access the company portal?" (Could be either)
+5. "I need to report an issue with my paycheck" (Could be either IT system or Finance)
+6. "What's the process for getting approval?" (Too vague)
+7. "How do I contact support?" (Could be either department)
+8. "What are the company policies?" (Too broad)
+9. "I need help with my account" (Unclear which account)
+10. "How do I submit a request?" (Unclear what type)
+
+TESTING SCENARIOS
+-----------------
+1. Direct FAQ matches: "How do I set up VPN?"
+2. Similar questions: "What's the VPN setup process?"
+3. Related questions: "I can't connect to the network from home"
+4. Policy questions: "What's the policy on software installation?"
+5. Process questions: "What's the process for requesting a new laptop?"
+6. Troubleshooting: "My computer is slow, what should I do?"
+7. Contact questions: "How do I contact IT support?"
+8. Urgent issues: "I can't access my email, need help immediately"
+9. General information: "What software can I use?"
+10. Specific procedures: "How do I file an expense report?"
+
+EXPECTED AGENT RESPONSES
+------------------------
+IT Agent should:
+- Reference the IT FAQ for VPN setup, software policies, hardware requests
+- Provide step-by-step instructions for technical issues
+- Direct users to appropriate IT contacts
+- Explain security policies and procedures
+- Use web search for current cybersecurity threats, latest software trends, and technical solutions
+
+Finance Agent should:
+- Reference the Finance FAQ for reimbursements, payroll, budgets
+- Explain approval processes and timelines
+- Provide contact information for finance departments
+- Clarify expense policies and procedures
+- Use web search for current tax regulations, financial best practices, and industry trends
+
+Supervisor Agent should:
+- Correctly classify queries as IT or Finance
+- Route to appropriate specialist agent
+- Handle ambiguous queries appropriately
+
+TOOL USAGE EXPECTATIONS:
+- read_file tool: Used for queries that match FAQ content directly
+- web_search tool: Used for current information, trends, regulations, and technical solutions not in FAQ
+- Both tools: May be used together for comprehensive responses combining internal policies with current external information

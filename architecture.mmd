@@ -1,0 +1,58 @@
+graph TD
+    %% User Input
+    A[User Query] --> B[Supervisor Agent]
+
+    %% Supervisor to Decider
+    B --> C[Decider Agent]
+
+    %% Decision Point
+    C --> D{Query Classification}
+
+    %% Classification Branches
+    D -->|IT Query| E[IT Agent]
+    D -->|Finance Query| F[Finance Agent]
+    D -->|Chat Query| G[Chat Agent]
+
+    %% IT Agent Flow
+    E --> H{Internal Search}
+    H -->|Relevant Content Found| I[Use Internal FAQ]
+    H -->|No Relevant Content| J[Web Search Fallback]
+    I --> K[Format Internal Response]
+    J --> L[Format Web Response]
+    K --> M[IT Response]
+    L --> M
+
+    %% Finance Agent Flow
+    F --> N{Internal Search}
+    N -->|Relevant Content Found| O[Use Internal FAQ]
+    N -->|No Relevant Content| P[Web Search Fallback]
+    O --> Q[Format Internal Response]
+    P --> R[Format Web Response]
+    Q --> S[Finance Response]
+    R --> S
+
+    %% Chat Agent Flow
+    G --> T[Generate Chat Response]
+    T --> U[Chat Response]
+
+    %% Final Answer
+    M --> V[Final Answer]
+    S --> V
+    U --> V
+
+    %% Data Sources
+    V --> W[AGENT FLOW + DATA SOURCE]
+
+    %% Styling
+    classDef userInput fill:#e1f5fe
+    classDef agent fill:#f3e5f5
+    classDef decision fill:#fff3e0
+    classDef dataSource fill:#e8f5e8
+    classDef response fill:#fce4ec
+
+    class A userInput
+    class B,C,E,F,G agent
+    class D,H,N decision
+    class I,J,O,P dataSource
+    class K,L,Q,R,T response
+    class M,S,U,V,W response

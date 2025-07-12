@@ -1,0 +1,94 @@
+FINANCE DEPARTMENT FAQ
+========================
+
+REIMBURSEMENTS
+-------------
+Q: How do I file a reimbursement request?
+A: Submit your expense report through the company portal with receipts attached. All expenses over $25 require receipts. Submit within 30 days of purchase.
+
+Q: What expenses are eligible for reimbursement?
+A: Business travel, office supplies, professional development, and approved business meals. Personal expenses are not eligible.
+
+Q: How long does reimbursement processing take?
+A: Standard processing time is 5-7 business days. Urgent requests can be expedited with manager approval.
+
+Q: Where can I find the reimbursement form?
+A: Access the form through the employee portal under "Finance" > "Expense Reports" or contact finance@company.com.
+
+PAYROLL
+-------
+Q: When is payroll processed?
+A: Payroll is processed on the 15th and last day of each month. Direct deposits are typically available 2-3 business days later.
+
+Q: How do I update my direct deposit information?
+A: Update your banking information through the employee portal under "Payroll" > "Direct Deposit" or contact HR.
+
+Q: When will I receive my W-2?
+A: W-2 forms are mailed by January 31st each year. You can also access them electronically through the employee portal.
+
+Q: How do I request a pay stub?
+A: Pay stubs are available online through the employee portal. Contact payroll@company.com if you need assistance.
+
+BUDGET REPORTS
+--------------
+Q: Where can I find last month's budget report?
+A: Monthly budget reports are available in the company portal under "Finance" > "Reports" > "Budget Analysis".
+
+Q: How often are budget reports updated?
+A: Budget reports are updated weekly on Fridays. Monthly summaries are available by the 5th of each month.
+
+Q: Who can access budget reports?
+A: Department managers and above have access to budget reports. Contact your manager for access requests.
+
+Q: How do I request budget approval for a project?
+A: Submit a budget request form through the portal with project details, estimated costs, and business justification.
+
+PURCHASE APPROVALS
+------------------
+Q: What is the approval process for purchases?
+A: Purchases under $500 require manager approval. $500-$5000 requires director approval. Over $5000 requires VP approval.
+
+Q: How do I submit a purchase request?
+A: Use the purchase requisition form in the portal. Include vendor quotes, business justification, and budget allocation.
+
+Q: What documentation is required for purchases?
+A: Vendor quotes, business justification, budget approval, and any required technical specifications.
+
+Q: How long does purchase approval take?
+A: Standard approval time is 3-5 business days. Urgent requests can be expedited with proper justification.
+
+INVOICE PROCESSING
+------------------
+Q: How do I submit an invoice for payment?
+A: Submit invoices through the accounts payable portal with proper coding and approval documentation.
+
+Q: What is the payment timeline for invoices?
+A: Net 30 days for standard invoices. Early payment discounts may be available for certain vendors.
+
+Q: How do I track invoice status?
+A: Check invoice status through the accounts payable portal or contact ap@company.com.
+
+Q: What information is required on invoices?
+A: Company name, invoice number, date, line items with descriptions, amounts, and proper tax information.
+
+FINANCIAL POLICIES
+------------------
+Q: What is the company's travel policy?
+A: Business travel requires pre-approval. Use approved travel agencies and submit expense reports within 30 days.
+
+Q: What is the policy on business meals?
+A: Business meals require pre-approval for amounts over $50. Submit receipts and list attendees with business purpose.
+
+Q: How do I handle petty cash?
+A: Petty cash is available for small office expenses. Submit receipts and reconciliation forms weekly.
+
+Q: What is the policy on corporate credit cards?
+A: Corporate cards are issued to approved employees. All charges must be business-related and properly documented.
+
+CONTACT INFORMATION
+-------------------
+Finance Department: finance@company.com
+Payroll: payroll@company.com
+Accounts Payable: ap@company.com
+Budget Inquiries: budget@company.com
+General Finance: (555) 123-4567
