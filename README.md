@@ -5,7 +5,7 @@ A sophisticated multi-agent system built with LangGraph that provides intelligen
 ## Demo Videos
 
 ### Application Demo
-[📹 **Demo Video: Multi-Agent Support System in Action**](https://example.com/demo-video](https://drive.google.com/file/d/1itqcria8onsFJxgib_Otcm8dyPhIdbh7/view?usp=sharing)
+[📹 **Demo Video: Multi-Agent Support System in Action**]([https://example.com/demo-video](https://drive.google.com/file/d/1itqcria8onsFJxgib_Otcm8dyPhIdbh7/view?usp=sharing)
 *Watch the system handle various queries, from internal FAQ lookups to web search fallbacks*
 
 ### Testing Demo
