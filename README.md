@@ -5,14 +5,20 @@ A sophisticated multi-agent system built with LangGraph that provides intelligen
 ## Demo Videos
 
 ### Application Demo
-[📹 **Demo Video: Multi-Agent Support System in Action**](https://example.com/demo-video)
+[📹 **Demo Video: Multi-Agent Support System in Action**]([https://example.com/demo-video](https://drive.google.com/file/d/1itqcria8onsFJxgib_Otcm8dyPhIdbh7/view?usp=sharing))
 *Watch the system handle various queries, from internal FAQ lookups to web search fallbacks*
 
 ### Testing Demo
-[📹 **Demo Video: Comprehensive Agent Testing**](https://example.com/testing-demo)
-*See the automated test suite evaluate each agent's performance with LLM-as-judge scoring*
+
+https://github.com/user-attachments/assets/8aed5a3c-0b09-4906-b87c-7eaac2355a82
+
+
+https://github.com/user-attachments/assets/801167a2-cbea-453a-9cd0-47a5359967da
+
+
 
 ## Architecture
+<img width="1659" height="1482" alt="Mermaid Diagram Jul 12 2025" src="https://github.com/user-attachments/assets/56ecd8fc-aa09-4788-bb59-6286257606e4" />
 
 ### 6-Agent System
 1. **Supervisor Agent** - Entry point, initial query analysis
