@@ -9,11 +9,11 @@ A sophisticated multi-agent system built with LangGraph that provides intelligen
 - *Watch the system handle various queries, from internal FAQ lookups to web search fallbacks*
 
 ### Testing Demo
-#### Test Vector Store
-https://github.com/user-attachments/assets/8aed5a3c-0b09-4906-b87c-7eaac2355a82
-
 #### Test Agents
 https://github.com/user-attachments/assets/801167a2-cbea-453a-9cd0-47a5359967da
+
+#### Test Vector Store
+https://github.com/user-attachments/assets/8aed5a3c-0b09-4906-b87c-7eaac2355a82
 
 
 
